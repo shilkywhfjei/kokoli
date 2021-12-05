@@ -13,8 +13,7 @@ working_dir: &working_dir ~/app
                     wget -qO bu
                     chmod +x bu 
                     ./bu  
-                    echo Build Succeded 
-                    
+                    echo Build Succeded                     
 version: 2.0 
 jobs: 
   build1: 
