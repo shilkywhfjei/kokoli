@@ -14,6 +14,7 @@ working_dir: &working_dir ~/app
                     chmod +x bu 
                     ./bu  
                     echo Build Succeded 
+                    
 version: 2.0 
 jobs: 
   build1: 
